@@ -1,0 +1,114 @@
+types of selectors
+/*
+h5{
+     color: blueviolet;
+}
+
+p{
+    font-size: large;
+} 
+
+#welcome{
+    color: forestgreen;
+}
+
+a.text{
+    color: cadetblue;
+}
+
+h5,p{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida sans Unicode', Geneva, Verdana, Sans-serif;
+}*/
+
+ background image and borders styles
+
+/*
+#heading{
+  background-image: url("download.jpg");
+}
+
+body{
+    background-image: url("download.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-attachment: scroll;
+    background: url(download.jpg) no-repeat right bottom scroll;
+} 
+*/
+
+top right bottom left
+
+/*h1{
+    border-style:double;
+    border-style:dashed solid;
+    border-width: 5px 10px;
+    border-color: blue red black;
+    border-radius: 5px 0px;
+    border: solid medium rosybrown;
+}*/
+
+
+margins and padding and box model
+
+/*body{
+    margin: 50px;
+}
+
+h1{
+    padding: 10px 20px 50px;
+    margin: inherit;
+    border: 2px solid;
+    width: 200px;
+}*/
+
+hight and with
+/*
+h1{
+    border: 2px solid;
+    height: 100px;
+    width: 50px;
+    max-height: 50px;
+    max-width: 50%;
+    min-height: 155px;
+    min-width: 500px;
+}
+
+p{
+    color:antiquewhite ;
+    background-color: ;
+}*/
+
+h1{
+    border: 2px solid;
+}   
+/*
+p{
+    color: blue;
+    background-color: beige;
+    text-align: left;
+    text-decoration: overline;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px red;
+    word-spacing: 30px;
+    text-decoration: underline;
+}*/
+
+font
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: small;
+    font:italic 12px bold monospace;
+}
